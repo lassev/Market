@@ -11,7 +11,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-/* 10000 - pO*qO - pM*qM - pG*qG == 0 */
+/* 10000 - pO*qO - pM*qM - pG*qG == 0  zie je dit ook?*/
 
 int main(int argc, char*argv[]) {
     int qO=0, qG=0, qM=0, pO, pG, pM, wallet=10000;
